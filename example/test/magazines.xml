@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>http://pragprog.com/magazines.opds</id>
+  <title>PragPub Magazine | The Pragmatic Bookshelf</title>
+  <link type="text/html" href="http://www.pragprog.com/magazines" rel="alternate"/>
+  <link type="application/atom+xml;profile=opds-catalog;kind=navigation" href="http://pragprog.com/magazines.opds" rel="self"/>
+  <link type="application/atom+xml;profile=opds-catalog;kind=navigation" title="Pragmatic Bookshelf Catalog" href="http://pragprog.com/catalog.opds" rel="start"/>
+  <updated>2012-07-31T22:43:20Z</updated>
+  <author>
+    <name>The Pragmatic Bookshelf</name>
+    <uri>http://pragprog.com</uri>
+  </author>
+  <entry>
+    <title>Issue 38, 8-2012</title>
+    <id>http://pragprog.com/magazines/download/38.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2012-08-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-08/images/cover__z109zl__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-08/images/cover__z109zl__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>Tales from the Ops Side</li>
+		<li>Functional Thinking For The Imperative Mind</li>
+		<li>Thinking Functionally with Haskell</li>
+		<li>Threads</li>
+		<li>Scala for the Intrigued</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Calendar, Shady Illuminations, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-07-31T22:43:20Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/38.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/38.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/38.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/38.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 37, 7-2012</title>
+    <id>http://pragprog.com/magazines/download/37.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2012-07-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-07/images/cover__10nxrv__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-07/images/cover__10nxrv__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>Tales from the Ops Side</li>
+		<li>Technical Debt Counselors</li>
+		<li>Threads</li>
+		<li>Scala for the Intrigued</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Calendar, Shady Illuminations, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-07-03T23:59:03Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/37.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/37.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/37.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/37.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 36, 6-2012</title>
+    <id>http://pragprog.com/magazines/download/36.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2012-06-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-06/images/cover__had102__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-06/images/cover__had102__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>The Beauty of Concurrency in Go</li>
+		<li>Moneyball and the Science of Building Great Teams</li>
+		<li>Scala for the Intrigued</li>
+		<li>Retrospective Velocity</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Meet the Team, Calendar, Shady Illuminations, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-06-06T12:50:33Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/36.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/36.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/36.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/36.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 35, 5-2012</title>
+    <id>http://pragprog.com/magazines/download/35.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2012-05-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-05/images/cover__17nw7d__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-05/images/cover__17nw7d__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>Scala for the Intrigued</li>
+		<li>Beyond the Bit Bucket</li>
+		<li>Effective Emails</li>
+		<li>What Makes an Awesome Command-line Application?</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Meet the Team, Calendar, Shady Illuminations, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-06-05T20:04:18Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/35.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/35.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/35.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/35.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 34, 4-2012</title>
+    <id>http://pragprog.com/magazines/download/34.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2012-04-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-04/images/cover__1s7sa4__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-04/images/cover__1s7sa4__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>Technical Blogging</li>
+		<li>Sand Piles and Software</li>
+		<li>Scala for the Intrigued</li>
+		<li>The Pragmatic Defense</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Meet the Team, Calendar, Shady Illuminations, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-06-05T20:03:54Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/34.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/34.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/34.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/34.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 33, 3-2012</title>
+    <id>http://pragprog.com/magazines/download/33.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2012-03-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-03/images/cover__89ags5__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-03/images/cover__89ags5__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>The <span class="caps">NOR</span> Machine</li>
+		<li>Scala for the Intrigued</li>
+		<li>Comparing Java and Scala’s Expressiveness</li>
+		<li>Four Common Pairing Pitfalls and How to Avoid Them</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Meet the Team, Calendar, Shady Illuminations, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-06-05T20:03:31Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/33.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/33.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/33.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/33.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 32, 2-2012</title>
+    <id>http://pragprog.com/magazines/download/32.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2012-02-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-02/images/cover__fpne72__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-02/images/cover__fpne72__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>Interfaces of Change</li>
+		<li>Ten Tips for Agile Leaders</li>
+		<li>Ten Sales Tips for Freelancers</li>
+		<li>Scala for the Intrigued</li>
+		<li>When Did That Happen?</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Meet the Team, The Quiz, Calendar, Shady Illuminations, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-06-05T20:03:09Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/32.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/32.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/32.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/32.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 31, 1-2012</title>
+    <id>http://pragprog.com/magazines/download/31.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2012-01-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-01/images/cover__1s9d9g__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2012-01/images/cover__1s9d9g__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>Unit Tests Are <span class="caps">FIRST</span></li>
+		<li>The Dude Abides</li>
+		<li>Scala for the Intrigued</li>
+		<li>When Did That Happen?</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Meet the Team, The Quiz, Calendar, Shady Illuminations</p>      </div>
+    </content>
+    <updated>2012-06-05T20:02:38Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/31.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/31.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/31.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/31.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 30, 12-2011</title>
+    <id>http://pragprog.com/magazines/download/30.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2011-12-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2011-12/images/cover__frqlj9__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2011-12/images/cover__frqlj9__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>Extending Java</li>
+		<li>Scala for the Intrigued</li>
+		<li>Revisiting Graphics Hardware</li>
+		<li>Just-In-Time Logging</li>
+		<li>When Did That Happen?</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Meet the Team, Calendar, Author Index, Shady Illuminations, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-06-05T20:02:10Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/30.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/30.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/30.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/30.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 29, 11-2011</title>
+    <id>http://pragprog.com/magazines/download/29.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2011-11-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2011-11/images/cover__1bg46s__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2011-11/images/cover__1bg46s__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>Inside iOS 5</li>
+		<li>Scala for the Intrigued</li>
+		<li>Test-Driven Development</li>
+		<li>Self-Inflicted Scope Creep</li>
+		<li>Root Cause Analysis from Long Ago</li>
+		<li>When Did That Happen?</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Meet the Team, Calendar, Shady Illuminations, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-06-05T20:01:42Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/29.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/29.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/29.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/29.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 28, 10-2011</title>
+    <id>http://pragprog.com/magazines/download/28.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2011-10-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2011-10/images/cover__1no8lx__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2011-10/images/cover__1no8lx__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>Lightsabers, Time Machines, &#38; Other Automation Heuristics</li>
+		<li>Open Source Community Values</li>
+		<li>Scala for the Intrigued</li>
+		<li>But We Have These Distributed Folks</li>
+		<li>When Did That Happen?</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Meet the Team, Shady Illuminations, Calendar, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-06-05T20:01:10Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/28.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/28.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/28.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/28.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+  <entry>
+    <title>Issue 27, 9-2011</title>
+    <id>http://pragprog.com/magazines/download/27.html</id>
+    <author>
+      <name>The Pragmatic Bookshelf</name>
+      <uri>http://pragprog.com</uri>
+    </author>
+    <dc:language>en</dc:language>
+    <dc:issued>2011-09-01T00:00:00+00:00</dc:issued>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2011-09/images/cover__kw8q0k__.jpg" rel="http://opds-spec.org/image"/>
+    <link type="image/jpeg" href="http://a.pragprog.com/magazines/2011-09/images/cover__kw8q0k__.jpg" rel="http://opds-spec.org/image/thumbnail"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+	<li>Scala for the Intrigued</li>
+		<li>Scala Traits</li>
+		<li>The Only Agile Tools You’ll Ever Need</li>
+		<li>When Did That Happen?</li>
+	</ul>
+
+
+	<p>Plus: Up Front, Choice Bits, Meet the Team, Shady Illuminations, Calendar, But Wait, There’s More&#8230;</p>      </div>
+    </content>
+    <updated>2012-06-05T20:00:46Z</updated>
+    <link type="text/html" href="http://pragprog.com/magazines/download/27.HTML" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/pdf" href="http://pragprog.com/magazines/download/27.PDF" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/epub+zip" href="http://pragprog.com/magazines/download/27.epub" rel="http://opds-spec.org/acquisition"/>
+    <link type="application/x-mobipocket-ebook" href="http://pragprog.com/magazines/download/27.mobi" rel="http://opds-spec.org/acquisition"/>
+  </entry>
+</feed>

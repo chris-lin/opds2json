@@ -1,0 +1,12 @@
+{   
+    "name" : "opds2json",
+    "version": "0.1.0",
+    "author": "Chris Lin",
+    "email": "chris@ossii.com.tw",
+    "description" : "Converts OPDS xml to json, using node-expat, xml2json",
+    "repository": "git://github.com/buglabs/node-xml2json.git", 
+    "main": "index", 
+    "dependencies": {
+       "xml2json": "0.2.4"
+    }
+}

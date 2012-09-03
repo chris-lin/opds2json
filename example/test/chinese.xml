@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="related" href="english.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="related" href="math.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="related" href="nature.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="related" href="society.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="related" href="health_sports.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="related" href="arts_humanity.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="related" href="composite_activities.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="related" href="live.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="related" href="major_topics.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="related" href="administration.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="related" href="other_books.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="self" href="chinese.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="up" href="school_books.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="start" href="chinese.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <id>urn:uuid:8581bb86-e5ad-ff92-96d2-c8948025b944</id>
+  <title>本國語文</title>
+  <updated>2012-07-30 15:48:21</updated>
+  <author>
+    <name>晟鑫科技 OSSII</name>
+    <uri>http://www.ossii.com.tw/about.html</uri>
+  </author>
+  <entry>
+    <title>倚天屠龍記1-10章</title>
+    <id>urn:uuid:3a16dd04-0676-b3d5-78c4-d5c5e5976bbb</id>
+    <author>
+      <name>ossii</name>
+    </author>
+    <dc:language>zh</dc:language>
+    <dc:issued>2012-07-30</dc:issued>
+    <catagory term="textbook" label="課本"/>
+    <dc:publisher></dc:publisher>
+    <dc:identifier>urn:isbn:</dc:identifier>
+    <summary></summary>
+    <content type="text">倚天屠龍記1-10章</content>
+    <display>
+      <bookcase>documents</bookcase>
+      <textflow>lr-tb</textflow>
+    </display>
+    <link rel="http://opds-spec.org/image/thumbnail" href="1-1-1-2012-07-30-13-47.png" type="image/png"/>
+    <link rel="http://opds-spec.org/acquisition" href="ezip-pdf-1-1-1-2012-07-30-13-47-0.1-2.ossii.noarch.rpm" type="application/x-rpm"/>
+    <link rel="http://opds-spec.org/acquisition/ezip" href="1-1-1-2012-07-30-13-47.ezip" type="application/x-ezip"/>
+  </entry>
+  <entry>
+    <title>倚天屠龍記11-20章</title>
+    <id>urn:uuid:f98d6bd6-8e9a-d147-91db-071e68202a85</id>
+    <author>
+      <name>ossii</name>
+    </author>
+    <dc:language>zh</dc:language>
+    <dc:issued>2012-07-30</dc:issued>
+    <catagory term="textbook" label="課本"/>
+    <dc:publisher></dc:publisher>
+    <dc:identifier>urn:isbn:</dc:identifier>
+    <summary></summary>
+    <content type="text">倚天屠龍記11-20章</content>
+    <display>
+      <bookcase>documents</bookcase>
+      <textflow>lr-tb</textflow>
+    </display>
+    <link rel="http://opds-spec.org/image/thumbnail" href="1-1-1-2012-07-30-13-48.png" type="image/png"/>
+    <link rel="http://opds-spec.org/acquisition" href="ezip-pdf-1-1-1-2012-07-30-13-48-0.1-2.ossii.noarch.rpm" type="application/x-rpm"/>
+    <link rel="http://opds-spec.org/acquisition/ezip" href="1-1-1-2012-07-30-13-48.ezip" type="application/x-ezip"/>
+  </entry>
+  <entry>
+    <title>倚天屠龍記31-40章</title>
+    <id>urn:uuid:82a1c53f-17bd-1da7-a5f6-76f5425149fd</id>
+    <author>
+      <name>ossii</name>
+    </author>
+    <dc:language>zh</dc:language>
+    <dc:issued>2012-07-30</dc:issued>
+    <catagory term="textbook" label="課本"/>
+    <dc:publisher></dc:publisher>
+    <dc:identifier>urn:isbn:</dc:identifier>
+    <summary></summary>
+    <content type="text">倚天屠龍記31-40章</content>
+    <display>
+      <bookcase>documents</bookcase>
+      <textflow>lr-tb</textflow>
+    </display>
+    <link rel="http://opds-spec.org/image/thumbnail" href="1-1-1-2012-07-30-13-50.png" type="image/png"/>
+    <link rel="http://opds-spec.org/acquisition" href="ezip-pdf-1-1-1-2012-07-30-13-50-0.1-3.ossii.noarch.rpm" type="application/x-rpm"/>
+    <link rel="http://opds-spec.org/acquisition/ezip" href="1-1-1-2012-07-30-13-50.ezip" type="application/x-ezip"/>
+  </entry>
+  <entry>
+    <title>倚天屠龍記21-30章</title>
+    <id>urn:uuid:c12ddd96-4c11-c9b4-47e8-bc8498e273d2</id>
+    <author>
+      <name>ossii</name>
+    </author>
+    <dc:language>zh</dc:language>
+    <dc:issued>2012-07-30</dc:issued>
+    <catagory term="textbook" label="課本"/>
+    <dc:publisher></dc:publisher>
+    <dc:identifier>urn:isbn:</dc:identifier>
+    <summary></summary>
+    <content type="text">倚天屠龍記21-30章</content>
+    <display>
+      <bookcase>documents</bookcase>
+      <textflow>lr-tb</textflow>
+    </display>
+    <link rel="http://opds-spec.org/image/thumbnail" href="1-1-1-2012-07-30-14-00.png" type="image/png"/>
+    <link rel="http://opds-spec.org/acquisition" href="ezip-pdf-1-1-1-2012-07-30-14-00-0.1-3.ossii.noarch.rpm" type="application/x-rpm"/>
+    <link rel="http://opds-spec.org/acquisition/ezip" href="1-1-1-2012-07-30-14-00.ezip" type="application/x-ezip"/>
+  </entry>
+  <entry>
+    <title>test</title>
+    <id>urn:uuid:579a0afb-fd82-cace-a1b4-a51d1c0e2a57</id>
+    <author>
+      <name>test</name>
+    </author>
+    <dc:language>zh</dc:language>
+    <dc:issued>2012-07-30</dc:issued>
+    <catagory term="textbook" label="課本"/>
+    <dc:publisher></dc:publisher>
+    <dc:identifier>urn:isbn:</dc:identifier>
+    <summary></summary>
+    <content type="text">test</content>
+    <display>
+      <bookcase>documents</bookcase>
+      <textflow>lr-tb</textflow>
+    </display>
+    <link rel="http://opds-spec.org/image/thumbnail" href="1-1-1-2012-07-30-15-48.png" type="image/png"/>
+    <link rel="http://opds-spec.org/acquisition" href="ezip-pdf-1-1-1-2012-07-30-15-48-0.1-1.ossii.noarch.rpm" type="application/x-rpm"/>
+    <link rel="http://opds-spec.org/acquisition/ezip" href="1-1-1-2012-07-30-15-48.ezip" type="application/x-ezip"/>
+  </entry>
+</feed>

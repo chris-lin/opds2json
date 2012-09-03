@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:app="http://www.w3.org/2007/app" xmlns:dcterms="http://purl.org/dc/terms/" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opds="http://opds-spec.org/2010/catalog" xml:lang="en" 
+xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns="http://www.w3.org/2005/Atom" 
+xmlns:thr="http://purl.org/syndication/thread/1.0">
+  <id>urn:uuid:a1dc5a00-65df-11e0-91e9-0002a5d5c51b</id>
+  <link rel="self"  
+        href="/ploughCatalog_opds.xml" 
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="start" 
+        href="/ploughCatalog_opds.xml" 
+        type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <title>Catalog of Free Ebooks from Plough Publishing</title>
+  <updated>2010-05-10T10:03:10Z</updated>
+    <author>
+    <name>The Plough Publishing House</name>
+    <uri>http://www.plough.com</uri>
+    <email>info@plough.com</email>
+  </author>
+
+  <entry>
+    <title>Plough Books in English</title>
+    <link rel="subsection" 
+          href="/ploughenglish_opds.xml"
+          type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+		  <link type="text/html" href="http://www.plough.com/ploughenglish_opds.xml" rel="alternate"/>
+    <updated>2011-05-10T10:01:01Z</updated>
+    <id>http://www.plough.com/ploughenglish_opds.xml</id>
+	<dcterms:language>en</dcterms:language>
+    <content type="text">Ebooks in .pdf, .epub, and .prc formats in English</content>
+  </entry>
+  
+  <entry>
+    <title>Libros electrónicos en Español.</title>
+    <link rel="subsection" 
+          href="/ploughspanish_opds.xml"
+          type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+	<link type="text/html" href="http://www.plough.com/ploughspanish_opds.xml" rel="alternate"/>
+    <updated>2011-04-25T10:01:01Z</updated>
+    <id>http://www.plough.com/ploughspanish_opds.xml</id>
+	<dcterms:language>es</dcterms:language>
+    <content type="text">Pulsen los libros para descagarlos — ¡ gratis !</content>
+  </entry>
+  
+  <entry>
+    <title>Gratis Ebooks auf Deutsch</title>
+    <link rel="subsection"
+          href="/ploughgerman_opds.xml"
+          type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+	<link type="text/html" href="http://www.plough.com/ploughgerman_opds.xml" rel="alternate"/>
+    <updated>2011-04-18T10:01:01Z</updated>
+    <id>http://www.plough.com/ploughgerman_opds.xml</id>
+	<dcterms:language>de</dcterms:language>
+    <content type="text">Alle Bücher aus Plough Books.</content>
+  </entry>
+  
+    <entry>
+    <title>كتب على الخط</title>
+    <link rel="subsection" 
+          href="/plougharabic_opds.xml"
+          type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+	<link type="text/html" href="http://www.plough.com/plougharabic_opds.xml" rel="alternate"/>
+    <updated>2011-05-10T10:01:01Z</updated>
+    <id>http://www.plough.com/plougharabic_opds.xml</id>
+	<dcterms:language>ar</dcterms:language>
+    <content type="text">&#1575;&#1604;&#1603;&#1578;&#1576; &#1575;&#1604;&#1573;&#1604;&#1603;&#1578;&#1585;&#1608;&#1606;&#1610;&#1577;</content>
+  </entry>
+  
+    <entry>
+    <title>Livrels gratuits</title>
+    <link rel="subsection" 
+          href="/ploughfrench_opds.xml"
+          type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+	<link type="text/html" href="http://www.plough.com/ploughfrench_opds.xml" rel="alternate"/>
+    <updated>2011-05-10T10:01:01Z</updated>
+    <id>http://www.plough.com/ploughfrench_opds.xml</id>
+	<dcterms:language>fr</dcterms:language>
+    <content type="text">Parcourrez notre collection de livrels, tous disponibles en format PDF. Vous trouverez des conseils sur le mariage, le pardon, la vie chrétienne — enfin, avis pour tous ceux qui ne se contentent pas d'une vie mondaine. Et oui, ils sont tous complètement gratuits !</content>
+  </entry>
+  
+      <entry>
+    <title>이 책을 무료로 다운로드 받으실 수 있습니다. </title>
+    <link rel="subsection" 
+          href="/ploughkorean_opds.xml"
+          type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+	<link type="text/html" href="http://www.plough.com/ploughkorean_opds.xml" rel="alternate"/>
+    <updated>2011-05-10T10:01:01Z</updated>
+    <id>http://www.plough.com/ploughkorean_opds.xml</id>
+	<dcterms:language>kr</dcterms:language>
+    <content type="text">저희 출판사에서 나온 여러 권의 책들을 이제 e-book으로 만나보실 수 있습니다. 이곳을 클릭하셔서 한국어로 이미 번역된 책들의 목록을 보세요. 모두 무료로 다운 받아 보실 수 있습니다.</content>
+  </entry>
+  
+  <entry>
+    <title>бесплатно скачать книги</title>
+    <link rel="subsection" 
+          href="/ploughrussian_opds.xml"
+          type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+	<link type="text/html" href="http://www.plough.com/ploughrussian_opds.xml" rel="alternate"/>
+    <updated>2011-04-18T10:01:01Z</updated>
+    <id>http://www.plough.com/ploughrussian_opds.xml</id>
+	<dcterms:language>ru</dcterms:language>
+    <content type="text">Читать бесплатно статьи и книги по христианской жизни, брак, ученичество, страх смерти, отказа от насилия, найти покой, и молитва.</content>
+  </entry>
+  
+</feed>

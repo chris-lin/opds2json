@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" href="root.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="start" href="root.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <id>urn:uuid:45aa9d8a-dd38-0b1d-51fc-f2d347b36fb7</id>
+  <title>Oxstore OPDS Root</title>
+  <updated>2012-07-30 15:48:21</updated>
+  <author>
+    <name>晟鑫科技 OSSII</name>
+    <uri>http://www.ossii.com.tw/about.html</uri>
+  </author>
+  <entry>
+    <title>學校用</title>
+    <link rel="subsection" href="school_books.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <updated>2011-10-21 10:01:30</updated>
+    <id>urn:uuid:c89fac89-7d7d-5162-2b17-c645d77ad7d6</id>
+    <content type="text">九年一貫各種學校用的教材</content>
+  </entry>
+  <entry>
+    <title>書籍</title>
+    <link rel="subsection" href="books.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <updated>2011-09-09 14:54:43</updated>
+    <id>urn:uuid:fd05e923-af34-0998-52f7-a323bd2b0ab1</id>
+    <content type="text">學校使用的課外書籍</content>
+  </entry>
+  <entry>
+    <title>應用軟體</title>
+    <link rel="subsection" href="apps.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <updated>2011-09-09 14:54:50</updated>
+    <id>urn:uuid:e4100158-fa63-0e0c-fff8-c86fd5bb8071</id>
+    <content type="text">以遊戲為主的應用軟體</content>
+  </entry>
+</feed>
