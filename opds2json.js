@@ -3,9 +3,15 @@ var fs = require('fs');
 var path = require('path');
 var assert = require('assert');
 
-var opds2json = function() {
+var init = function (file) {
+  return new opds2json(file);
+}
+
+var opds2json = function(file) {
   this._file;
   this._json;
+  this.setFileName(file);
+  this.xml2json(file);
 }
 
 opds2json.prototype.xml2json = function(file) {
@@ -20,16 +26,17 @@ opds2json.prototype.xml2json = function(file) {
 opds2json.prototype.findEntry = function() {
   var obj = JSON.parse(this.getJson());
   var entry_books = JSON.stringify(obj.feed.entry, null, 4);
-  //console.log(entry_books);
   return entry_books;
 }
 
-opds2json.prototype.json2file = function(json, newName) {
+opds2json.prototype.json2file = function(json, filepath) {
   var json = json ? json : this.getJson(),
-      filename = newName ? newName : this.getFileName(),
+      filename = filepath ? filepath : this.getFileName(),
       ext = path.extname(filename),
+      dirname = path.dirname(filename),
       basename = path.basename(filename, ext);
-  fs.writeFileSync(basename + '.json', json);
+      filepath = dirname + '/' + basename + '.json';
+  fs.writeFileSync(filepath, json);
   return this;
 }
 
@@ -51,6 +58,4 @@ opds2json.prototype.getFileName = function() {
   return this._file;
 }
 
-var obj = new opds2json();
-
-module.exports = obj;
+module.exports.init = init;
