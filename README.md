@@ -1,5 +1,8 @@
 # Simple SAX-based OPDS2Json Parser.
 
+## 使用前安裝相依行套件
+`npm install`
+
 ## Usage 
 ```javascript
 var opds = require('opds2json'); //指定opds2json的位置將其載入
